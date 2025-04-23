@@ -1,0 +1,38 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/akshaj/Desktop/ros-lab/ros-lab/install/custom_service_msg/lib/python3.10/site-packages",
+        "/home/akshaj/Desktop/ros-lab/ros-lab/install/tutorial_interfaces/local/lib/python3.10/dist-packages",
+        "/home/akshaj/Desktop/ros-lab/ros-lab/install/turtle_border/lib/python3.10/site-packages",
+        "/home/akshaj/Desktop/ros-lab/ros-lab/install/ti_custom_msg/lib/python3.10/site-packages",
+        "/home/akshaj/Desktop/ros-lab/ros-lab/install/setpen_service/lib/python3.10/site-packages",
+        "/home/akshaj/Desktop/ros-lab/ros-lab/install/roslab/lib/python3.10/site-packages",
+        "/home/akshaj/Desktop/ros-lab/ros-lab/install/publisher_pkg/lib/python3.10/site-packages",
+        "/home/akshaj/Desktop/ros-lab/ros-lab/install/experiment_interfaces/local/lib/python3.10/dist-packages",
+        "/home/akshaj/Desktop/ros-lab/ros-lab/install/dob_interfaces/local/lib/python3.10/dist-packages",
+        "/home/akshaj/Desktop/ros-lab/ros-lab/install/dob_custom_pubsub/lib/python3.10/site-packages",
+        "/home/akshaj/Desktop/ros-lab/ros-lab/install/client_pkg/lib/python3.10/site-packages",
+        "/home/akshaj/Desktop/ros-lab/ros-lab/install/action_prime/local/lib/python3.10/dist-packages",
+        "/home/akshaj/Desktop/ros-lab/ros-lab/install/action_fibbo/local/lib/python3.10/dist-packages",
+        "/home/akshaj/Desktop/ros-lab/ros-lab/install/action_client/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/akshaj/Desktop/ros-lab/ros-lab/install/custom_service_msg/lib/python3.10/site-packages",
+        "/home/akshaj/Desktop/ros-lab/ros-lab/install/tutorial_interfaces/local/lib/python3.10/dist-packages",
+        "/home/akshaj/Desktop/ros-lab/ros-lab/install/turtle_border/lib/python3.10/site-packages",
+        "/home/akshaj/Desktop/ros-lab/ros-lab/install/ti_custom_msg/lib/python3.10/site-packages",
+        "/home/akshaj/Desktop/ros-lab/ros-lab/install/setpen_service/lib/python3.10/site-packages",
+        "/home/akshaj/Desktop/ros-lab/ros-lab/install/roslab/lib/python3.10/site-packages",
+        "/home/akshaj/Desktop/ros-lab/ros-lab/install/publisher_pkg/lib/python3.10/site-packages",
+        "/home/akshaj/Desktop/ros-lab/ros-lab/install/experiment_interfaces/local/lib/python3.10/dist-packages",
+        "/home/akshaj/Desktop/ros-lab/ros-lab/install/dob_interfaces/local/lib/python3.10/dist-packages",
+        "/home/akshaj/Desktop/ros-lab/ros-lab/install/dob_custom_pubsub/lib/python3.10/site-packages",
+        "/home/akshaj/Desktop/ros-lab/ros-lab/install/client_pkg/lib/python3.10/site-packages",
+        "/home/akshaj/Desktop/ros-lab/ros-lab/install/action_prime/local/lib/python3.10/dist-packages",
+        "/home/akshaj/Desktop/ros-lab/ros-lab/install/action_fibbo/local/lib/python3.10/dist-packages",
+        "/home/akshaj/Desktop/ros-lab/ros-lab/install/action_client/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

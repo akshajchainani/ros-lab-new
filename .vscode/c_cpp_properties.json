@@ -1,0 +1,25 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/akshaj/Desktop/ros-lab/ros-lab/install/tutorial_interfaces/include/**",
+        "/home/akshaj/Desktop/ros-lab/ros-lab/install/experiment_interfaces/include/**",
+        "/home/akshaj/Desktop/ros-lab/ros-lab/install/dob_interfaces/include/**",
+        "/home/akshaj/Desktop/ros-lab/ros-lab/install/action_prime/include/**",
+        "/home/akshaj/Desktop/ros-lab/ros-lab/install/action_fibbo/include/**",
+        "/opt/ros/humble/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
