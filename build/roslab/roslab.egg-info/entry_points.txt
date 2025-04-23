@@ -1,0 +1,2 @@
+[console_scripts]
+test_node = roslab.my_first_node:main

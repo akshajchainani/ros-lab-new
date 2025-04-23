@@ -1,0 +1,9 @@
+/home/akshaj/Desktop/ros-lab/ros-lab/build/myrobot_bringup/CMakeFiles/uninstall.dir
+/home/akshaj/Desktop/ros-lab/ros-lab/build/myrobot_bringup/CMakeFiles/myrobot_bringup_uninstall.dir
+/home/akshaj/Desktop/ros-lab/ros-lab/build/myrobot_bringup/CMakeFiles/test.dir
+/home/akshaj/Desktop/ros-lab/ros-lab/build/myrobot_bringup/CMakeFiles/edit_cache.dir
+/home/akshaj/Desktop/ros-lab/ros-lab/build/myrobot_bringup/CMakeFiles/rebuild_cache.dir
+/home/akshaj/Desktop/ros-lab/ros-lab/build/myrobot_bringup/CMakeFiles/list_install_components.dir
+/home/akshaj/Desktop/ros-lab/ros-lab/build/myrobot_bringup/CMakeFiles/install.dir
+/home/akshaj/Desktop/ros-lab/ros-lab/build/myrobot_bringup/CMakeFiles/install/local.dir
+/home/akshaj/Desktop/ros-lab/ros-lab/build/myrobot_bringup/CMakeFiles/install/strip.dir

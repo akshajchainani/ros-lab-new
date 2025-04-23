@@ -1,0 +1,33 @@
+/home/akshaj/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py:289: UserWarning: Unknown distribution option: 'tests_require'
+  warnings.warn(msg)
+running egg_info
+creating ../../build/setpen_service/setpen_service.egg-info
+writing ../../build/setpen_service/setpen_service.egg-info/PKG-INFO
+writing dependency_links to ../../build/setpen_service/setpen_service.egg-info/dependency_links.txt
+writing entry points to ../../build/setpen_service/setpen_service.egg-info/entry_points.txt
+writing requirements to ../../build/setpen_service/setpen_service.egg-info/requires.txt
+writing top-level names to ../../build/setpen_service/setpen_service.egg-info/top_level.txt
+writing manifest file '../../build/setpen_service/setpen_service.egg-info/SOURCES.txt'
+reading manifest file '../../build/setpen_service/setpen_service.egg-info/SOURCES.txt'
+writing manifest file '../../build/setpen_service/setpen_service.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/akshaj/Desktop/ros-lab/ros-lab/build/setpen_service/build/lib/setpen_service
+copying setpen_service/__init__.py -> /home/akshaj/Desktop/ros-lab/ros-lab/build/setpen_service/build/lib/setpen_service
+copying setpen_service/setpen.py -> /home/akshaj/Desktop/ros-lab/ros-lab/build/setpen_service/build/lib/setpen_service
+running install
+running install_lib
+creating /home/akshaj/Desktop/ros-lab/ros-lab/install/setpen_service/lib/python3.10/site-packages/setpen_service
+copying /home/akshaj/Desktop/ros-lab/ros-lab/build/setpen_service/build/lib/setpen_service/__init__.py -> /home/akshaj/Desktop/ros-lab/ros-lab/install/setpen_service/lib/python3.10/site-packages/setpen_service
+copying /home/akshaj/Desktop/ros-lab/ros-lab/build/setpen_service/build/lib/setpen_service/setpen.py -> /home/akshaj/Desktop/ros-lab/ros-lab/install/setpen_service/lib/python3.10/site-packages/setpen_service
+byte-compiling /home/akshaj/Desktop/ros-lab/ros-lab/install/setpen_service/lib/python3.10/site-packages/setpen_service/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/akshaj/Desktop/ros-lab/ros-lab/install/setpen_service/lib/python3.10/site-packages/setpen_service/setpen.py to setpen.cpython-310.pyc
+running install_data
+creating /home/akshaj/Desktop/ros-lab/ros-lab/install/setpen_service/share/ament_index/resource_index/packages
+copying resource/setpen_service -> /home/akshaj/Desktop/ros-lab/ros-lab/install/setpen_service/share/ament_index/resource_index/packages
+copying package.xml -> /home/akshaj/Desktop/ros-lab/ros-lab/install/setpen_service/share/setpen_service
+running install_egg_info
+Copying ../../build/setpen_service/setpen_service.egg-info to /home/akshaj/Desktop/ros-lab/ros-lab/install/setpen_service/lib/python3.10/site-packages/setpen_service-0.0.0-py3.10.egg-info
+running install_scripts
+Installing ass4 script to /home/akshaj/Desktop/ros-lab/ros-lab/install/setpen_service/lib/setpen_service
+writing list of installed files to '/home/akshaj/Desktop/ros-lab/ros-lab/build/setpen_service/install.log'

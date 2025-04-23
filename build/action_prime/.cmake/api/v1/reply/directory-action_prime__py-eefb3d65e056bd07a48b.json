@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "action_prime__py",
+		"source" : "/home/akshaj/Desktop/ros-lab/ros-lab/build/action_prime/action_prime__py"
+	}
+}

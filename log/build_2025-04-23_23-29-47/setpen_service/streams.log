@@ -1,0 +1,35 @@
+[1.638s] Invoking command in '/home/akshaj/Desktop/ros-lab/ros-lab/src/setpen_service': PYTHONPATH=/home/akshaj/Desktop/ros-lab/ros-lab/build/setpen_service/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/akshaj/Desktop/ros-lab/ros-lab/install/setpen_service/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/setpen_service build --build-base /home/akshaj/Desktop/ros-lab/ros-lab/build/setpen_service/build install --record /home/akshaj/Desktop/ros-lab/ros-lab/build/setpen_service/install.log --single-version-externally-managed install_data
+[1.940s] /home/akshaj/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py:289: UserWarning: Unknown distribution option: 'tests_require'
+[1.941s]   warnings.warn(msg)
+[2.136s] running egg_info
+[2.166s] creating ../../build/setpen_service/setpen_service.egg-info
+[2.167s] writing ../../build/setpen_service/setpen_service.egg-info/PKG-INFO
+[2.170s] writing dependency_links to ../../build/setpen_service/setpen_service.egg-info/dependency_links.txt
+[2.170s] writing entry points to ../../build/setpen_service/setpen_service.egg-info/entry_points.txt
+[2.170s] writing requirements to ../../build/setpen_service/setpen_service.egg-info/requires.txt
+[2.170s] writing top-level names to ../../build/setpen_service/setpen_service.egg-info/top_level.txt
+[2.171s] writing manifest file '../../build/setpen_service/setpen_service.egg-info/SOURCES.txt'
+[2.234s] reading manifest file '../../build/setpen_service/setpen_service.egg-info/SOURCES.txt'
+[2.241s] writing manifest file '../../build/setpen_service/setpen_service.egg-info/SOURCES.txt'
+[2.246s] running build
+[2.246s] running build_py
+[2.246s] creating /home/akshaj/Desktop/ros-lab/ros-lab/build/setpen_service/build/lib/setpen_service
+[2.246s] copying setpen_service/__init__.py -> /home/akshaj/Desktop/ros-lab/ros-lab/build/setpen_service/build/lib/setpen_service
+[2.246s] copying setpen_service/setpen.py -> /home/akshaj/Desktop/ros-lab/ros-lab/build/setpen_service/build/lib/setpen_service
+[2.246s] running install
+[2.257s] running install_lib
+[2.288s] creating /home/akshaj/Desktop/ros-lab/ros-lab/install/setpen_service/lib/python3.10/site-packages/setpen_service
+[2.290s] copying /home/akshaj/Desktop/ros-lab/ros-lab/build/setpen_service/build/lib/setpen_service/__init__.py -> /home/akshaj/Desktop/ros-lab/ros-lab/install/setpen_service/lib/python3.10/site-packages/setpen_service
+[2.290s] copying /home/akshaj/Desktop/ros-lab/ros-lab/build/setpen_service/build/lib/setpen_service/setpen.py -> /home/akshaj/Desktop/ros-lab/ros-lab/install/setpen_service/lib/python3.10/site-packages/setpen_service
+[2.290s] byte-compiling /home/akshaj/Desktop/ros-lab/ros-lab/install/setpen_service/lib/python3.10/site-packages/setpen_service/__init__.py to __init__.cpython-310.pyc
+[2.290s] byte-compiling /home/akshaj/Desktop/ros-lab/ros-lab/install/setpen_service/lib/python3.10/site-packages/setpen_service/setpen.py to setpen.cpython-310.pyc
+[2.290s] running install_data
+[2.291s] creating /home/akshaj/Desktop/ros-lab/ros-lab/install/setpen_service/share/ament_index/resource_index/packages
+[2.291s] copying resource/setpen_service -> /home/akshaj/Desktop/ros-lab/ros-lab/install/setpen_service/share/ament_index/resource_index/packages
+[2.291s] copying package.xml -> /home/akshaj/Desktop/ros-lab/ros-lab/install/setpen_service/share/setpen_service
+[2.291s] running install_egg_info
+[2.324s] Copying ../../build/setpen_service/setpen_service.egg-info to /home/akshaj/Desktop/ros-lab/ros-lab/install/setpen_service/lib/python3.10/site-packages/setpen_service-0.0.0-py3.10.egg-info
+[2.326s] running install_scripts
+[2.703s] Installing ass4 script to /home/akshaj/Desktop/ros-lab/ros-lab/install/setpen_service/lib/setpen_service
+[2.704s] writing list of installed files to '/home/akshaj/Desktop/ros-lab/ros-lab/build/setpen_service/install.log'
+[2.794s] Invoked command in '/home/akshaj/Desktop/ros-lab/ros-lab/src/setpen_service' returned '0': PYTHONPATH=/home/akshaj/Desktop/ros-lab/ros-lab/build/setpen_service/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/akshaj/Desktop/ros-lab/ros-lab/install/setpen_service/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/setpen_service build --build-base /home/akshaj/Desktop/ros-lab/ros-lab/build/setpen_service/build install --record /home/akshaj/Desktop/ros-lab/ros-lab/build/setpen_service/install.log --single-version-externally-managed install_data

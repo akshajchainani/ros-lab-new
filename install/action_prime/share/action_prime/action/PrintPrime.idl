@@ -1,0 +1,24 @@
+// generated from rosidl_adapter/resource/action.idl.em
+// with input from action_prime/action/PrintPrime.action
+// generated code does not contain a copyright notice
+
+
+module action_prime {
+  module action {
+    @verbatim (language="comment", text=
+      "Goal definition")
+    struct PrintPrime_Goal {
+      int32 n;
+    };
+    @verbatim (language="comment", text=
+      "Result definition")
+    struct PrintPrime_Result {
+      sequence<int32> primes;
+    };
+    @verbatim (language="comment", text=
+      "Feedback definition")
+    struct PrintPrime_Feedback {
+      int32 current_prime;
+    };
+  };
+};

@@ -1,0 +1,11 @@
+# Goal definition
+int32 n
+
+---
+# Result definition
+int32[] primes
+
+---
+# Feedback definition
+int32 current_prime
+

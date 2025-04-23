@@ -1,0 +1,17 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from tutorial_interfaces/srv/SetVelocityTurtle.srv
+// generated code does not contain a copyright notice
+
+
+module tutorial_interfaces {
+  module srv {
+    struct SetVelocityTurtle_Request {
+      float velocity;
+
+      float angle;
+    };
+    struct SetVelocityTurtle_Response {
+      string msg;
+    };
+  };
+};

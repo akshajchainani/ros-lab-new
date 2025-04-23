@@ -1,0 +1,62 @@
+[0.327s] Invoking command in '/home/akshaj/Desktop/ros-lab/ros-lab/build/assingment7': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/akshaj/Desktop/ros-lab/ros-lab/src/assingment7 -DCMAKE_INSTALL_PREFIX=/home/akshaj/Desktop/ros-lab/ros-lab/install/assingment7
+[1.316s] -- The C compiler identification is GNU 11.4.0
+[1.317s] -- The CXX compiler identification is GNU 11.4.0
+[1.317s] -- Detecting C compiler ABI info
+[1.317s] -- Detecting C compiler ABI info - done
+[1.317s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.317s] -- Detecting C compile features
+[1.317s] -- Detecting C compile features - done
+[1.317s] -- Detecting CXX compiler ABI info
+[1.317s] -- Detecting CXX compiler ABI info - done
+[1.318s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.318s] -- Detecting CXX compile features
+[1.318s] -- Detecting CXX compile features - done
+[1.318s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.321s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.462s] -- Found urdf: 2.6.1 (/opt/ros/humble/share/urdf/cmake)
+[1.569s] -- Found xacro: 2.0.13 (/opt/ros/humble/share/xacro/cmake)
+[1.572s] -- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.712s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.744s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.744s] -- Configured cppcheck include dirs: 
+[1.744s] -- Configured cppcheck exclude dirs and/or files: 
+[1.769s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[1.769s] -- Configured cpplint exclude dirs and/or files: 
+[1.777s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.790s] -- Added test 'lint_cmake' to check CMake code style
+[1.796s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.826s] -- Added test 'uncrustify' to check C / C++ code style
+[1.826s] -- Configured uncrustify additional arguments: 
+[1.832s] -- Added test 'xmllint' to check XML markup files
+[1.834s] -- Configuring done
+[1.841s] -- Generating done
+[1.845s] -- Build files have been written to: /home/akshaj/Desktop/ros-lab/ros-lab/build/assingment7
+[1.879s] Invoked command in '/home/akshaj/Desktop/ros-lab/ros-lab/build/assingment7' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/akshaj/Desktop/ros-lab/ros-lab/src/assingment7 -DCMAKE_INSTALL_PREFIX=/home/akshaj/Desktop/ros-lab/ros-lab/install/assingment7
+[1.880s] Invoking command in '/home/akshaj/Desktop/ros-lab/ros-lab/build/assingment7': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/akshaj/Desktop/ros-lab/ros-lab/build/assingment7 -- -j12 -l12
+[1.990s] Invoked command in '/home/akshaj/Desktop/ros-lab/ros-lab/build/assingment7' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/akshaj/Desktop/ros-lab/ros-lab/build/assingment7 -- -j12 -l12
+[2.030s] Invoking command in '/home/akshaj/Desktop/ros-lab/ros-lab/build/assingment7': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/akshaj/Desktop/ros-lab/ros-lab/build/assingment7
+[2.068s] -- Install configuration: ""
+[2.068s] -- Installing: /home/akshaj/Desktop/ros-lab/ros-lab/install/assingment7/share/assingment7//urdf
+[2.068s] -- Installing: /home/akshaj/Desktop/ros-lab/ros-lab/install/assingment7/share/assingment7//urdf/four_wheel.xacro
+[2.068s] -- Installing: /home/akshaj/Desktop/ros-lab/ros-lab/install/assingment7/share/assingment7//urdf/robot.urdf.xacro
+[2.068s] -- Installing: /home/akshaj/Desktop/ros-lab/ros-lab/install/assingment7/share/assingment7//urdf/four_dof.xacro
+[2.069s] -- Installing: /home/akshaj/Desktop/ros-lab/ros-lab/install/assingment7/share/assingment7//urdf/inertial_macros.xacro
+[2.069s] -- Installing: /home/akshaj/Desktop/ros-lab/ros-lab/install/assingment7/share/assingment7//launch
+[2.069s] -- Installing: /home/akshaj/Desktop/ros-lab/ros-lab/install/assingment7/share/assingment7//launch/ass7.launch.xml
+[2.069s] -- Installing: /home/akshaj/Desktop/ros-lab/ros-lab/install/assingment7/share/assingment7//rviz
+[2.069s] -- Installing: /home/akshaj/Desktop/ros-lab/ros-lab/install/assingment7/share/ament_index/resource_index/package_run_dependencies/assingment7
+[2.069s] -- Installing: /home/akshaj/Desktop/ros-lab/ros-lab/install/assingment7/share/ament_index/resource_index/parent_prefix_path/assingment7
+[2.069s] -- Installing: /home/akshaj/Desktop/ros-lab/ros-lab/install/assingment7/share/assingment7/environment/ament_prefix_path.sh
+[2.069s] -- Installing: /home/akshaj/Desktop/ros-lab/ros-lab/install/assingment7/share/assingment7/environment/ament_prefix_path.dsv
+[2.070s] -- Installing: /home/akshaj/Desktop/ros-lab/ros-lab/install/assingment7/share/assingment7/environment/path.sh
+[2.070s] -- Installing: /home/akshaj/Desktop/ros-lab/ros-lab/install/assingment7/share/assingment7/environment/path.dsv
+[2.070s] -- Installing: /home/akshaj/Desktop/ros-lab/ros-lab/install/assingment7/share/assingment7/local_setup.bash
+[2.070s] -- Installing: /home/akshaj/Desktop/ros-lab/ros-lab/install/assingment7/share/assingment7/local_setup.sh
+[2.070s] -- Installing: /home/akshaj/Desktop/ros-lab/ros-lab/install/assingment7/share/assingment7/local_setup.zsh
+[2.070s] -- Installing: /home/akshaj/Desktop/ros-lab/ros-lab/install/assingment7/share/assingment7/local_setup.dsv
+[2.070s] -- Installing: /home/akshaj/Desktop/ros-lab/ros-lab/install/assingment7/share/assingment7/package.dsv
+[2.070s] -- Installing: /home/akshaj/Desktop/ros-lab/ros-lab/install/assingment7/share/ament_index/resource_index/packages/assingment7
+[2.071s] -- Installing: /home/akshaj/Desktop/ros-lab/ros-lab/install/assingment7/share/assingment7/cmake/assingment7Config.cmake
+[2.071s] -- Installing: /home/akshaj/Desktop/ros-lab/ros-lab/install/assingment7/share/assingment7/cmake/assingment7Config-version.cmake
+[2.071s] -- Installing: /home/akshaj/Desktop/ros-lab/ros-lab/install/assingment7/share/assingment7/package.xml
+[2.076s] Invoked command in '/home/akshaj/Desktop/ros-lab/ros-lab/build/assingment7' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/akshaj/Desktop/ros-lab/ros-lab/build/assingment7

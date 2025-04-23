@@ -1,0 +1,7 @@
+{
+  "package_name": "experiment_interfaces",
+  "non_idl_tuples": [
+    "/home/akshaj/Desktop/ros-lab/ros-lab/src/experiment_interfaces:msg/Num.msg",
+    "/home/akshaj/Desktop/ros-lab/ros-lab/src/experiment_interfaces:msg/Sphere.msg"
+  ]
+}

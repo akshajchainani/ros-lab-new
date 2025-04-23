@@ -1,0 +1,39 @@
+[1.598s] Invoking command in '/home/akshaj/Desktop/ros-lab/ros-lab/src/ti_custom_msg': PYTHONPATH=/home/akshaj/Desktop/ros-lab/ros-lab/build/ti_custom_msg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/akshaj/Desktop/ros-lab/ros-lab/install/ti_custom_msg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ti_custom_msg build --build-base /home/akshaj/Desktop/ros-lab/ros-lab/build/ti_custom_msg/build install --record /home/akshaj/Desktop/ros-lab/ros-lab/build/ti_custom_msg/install.log --single-version-externally-managed install_data
+[2.140s] /home/akshaj/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py:289: UserWarning: Unknown distribution option: 'tests_require'
+[2.145s]   warnings.warn(msg)
+[2.414s] running egg_info
+[2.484s] creating ../../build/ti_custom_msg/ti_custom_msg.egg-info
+[2.484s] writing ../../build/ti_custom_msg/ti_custom_msg.egg-info/PKG-INFO
+[2.484s] writing dependency_links to ../../build/ti_custom_msg/ti_custom_msg.egg-info/dependency_links.txt
+[2.488s] writing entry points to ../../build/ti_custom_msg/ti_custom_msg.egg-info/entry_points.txt
+[2.488s] writing requirements to ../../build/ti_custom_msg/ti_custom_msg.egg-info/requires.txt
+[2.488s] writing top-level names to ../../build/ti_custom_msg/ti_custom_msg.egg-info/top_level.txt
+[2.488s] writing manifest file '../../build/ti_custom_msg/ti_custom_msg.egg-info/SOURCES.txt'
+[2.626s] reading manifest file '../../build/ti_custom_msg/ti_custom_msg.egg-info/SOURCES.txt'
+[2.626s] writing manifest file '../../build/ti_custom_msg/ti_custom_msg.egg-info/SOURCES.txt'
+[2.634s] running build
+[2.634s] running build_py
+[2.634s] creating /home/akshaj/Desktop/ros-lab/ros-lab/build/ti_custom_msg/build/lib/ti_custom_msg
+[2.634s] copying ti_custom_msg/Publisher.py -> /home/akshaj/Desktop/ros-lab/ros-lab/build/ti_custom_msg/build/lib/ti_custom_msg
+[2.634s] copying ti_custom_msg/Subscriber.py -> /home/akshaj/Desktop/ros-lab/ros-lab/build/ti_custom_msg/build/lib/ti_custom_msg
+[2.634s] copying ti_custom_msg/__init__.py -> /home/akshaj/Desktop/ros-lab/ros-lab/build/ti_custom_msg/build/lib/ti_custom_msg
+[2.634s] running install
+[2.649s] running install_lib
+[2.723s] creating /home/akshaj/Desktop/ros-lab/ros-lab/install/ti_custom_msg/lib/python3.10/site-packages/ti_custom_msg
+[2.727s] copying /home/akshaj/Desktop/ros-lab/ros-lab/build/ti_custom_msg/build/lib/ti_custom_msg/Publisher.py -> /home/akshaj/Desktop/ros-lab/ros-lab/install/ti_custom_msg/lib/python3.10/site-packages/ti_custom_msg
+[2.733s] copying /home/akshaj/Desktop/ros-lab/ros-lab/build/ti_custom_msg/build/lib/ti_custom_msg/Subscriber.py -> /home/akshaj/Desktop/ros-lab/ros-lab/install/ti_custom_msg/lib/python3.10/site-packages/ti_custom_msg
+[2.733s] copying /home/akshaj/Desktop/ros-lab/ros-lab/build/ti_custom_msg/build/lib/ti_custom_msg/__init__.py -> /home/akshaj/Desktop/ros-lab/ros-lab/install/ti_custom_msg/lib/python3.10/site-packages/ti_custom_msg
+[2.733s] byte-compiling /home/akshaj/Desktop/ros-lab/ros-lab/install/ti_custom_msg/lib/python3.10/site-packages/ti_custom_msg/Publisher.py to Publisher.cpython-310.pyc
+[2.738s] byte-compiling /home/akshaj/Desktop/ros-lab/ros-lab/install/ti_custom_msg/lib/python3.10/site-packages/ti_custom_msg/Subscriber.py to Subscriber.cpython-310.pyc
+[2.743s] byte-compiling /home/akshaj/Desktop/ros-lab/ros-lab/install/ti_custom_msg/lib/python3.10/site-packages/ti_custom_msg/__init__.py to __init__.cpython-310.pyc
+[2.744s] running install_data
+[2.744s] creating /home/akshaj/Desktop/ros-lab/ros-lab/install/ti_custom_msg/share/ament_index/resource_index/packages
+[2.745s] copying resource/ti_custom_msg -> /home/akshaj/Desktop/ros-lab/ros-lab/install/ti_custom_msg/share/ament_index/resource_index/packages
+[2.745s] copying package.xml -> /home/akshaj/Desktop/ros-lab/ros-lab/install/ti_custom_msg/share/ti_custom_msg
+[2.746s] running install_egg_info
+[2.848s] Copying ../../build/ti_custom_msg/ti_custom_msg.egg-info to /home/akshaj/Desktop/ros-lab/ros-lab/install/ti_custom_msg/lib/python3.10/site-packages/ti_custom_msg-0.0.0-py3.10.egg-info
+[2.857s] running install_scripts
+[3.650s] Installing listner script to /home/akshaj/Desktop/ros-lab/ros-lab/install/ti_custom_msg/lib/ti_custom_msg
+[3.650s] Installing talker script to /home/akshaj/Desktop/ros-lab/ros-lab/install/ti_custom_msg/lib/ti_custom_msg
+[3.657s] writing list of installed files to '/home/akshaj/Desktop/ros-lab/ros-lab/build/ti_custom_msg/install.log'
+[3.927s] Invoked command in '/home/akshaj/Desktop/ros-lab/ros-lab/src/ti_custom_msg' returned '0': PYTHONPATH=/home/akshaj/Desktop/ros-lab/ros-lab/build/ti_custom_msg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/akshaj/Desktop/ros-lab/ros-lab/install/ti_custom_msg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ti_custom_msg build --build-base /home/akshaj/Desktop/ros-lab/ros-lab/build/ti_custom_msg/build install --record /home/akshaj/Desktop/ros-lab/ros-lab/build/ti_custom_msg/install.log --single-version-externally-managed install_data

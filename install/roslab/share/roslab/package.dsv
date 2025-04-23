@@ -1,0 +1,6 @@
+source;share/roslab/hook/pythonpath.ps1
+source;share/roslab/hook/pythonpath.dsv
+source;share/roslab/hook/pythonpath.sh
+source;share/roslab/hook/ament_prefix_path.ps1
+source;share/roslab/hook/ament_prefix_path.dsv
+source;share/roslab/hook/ament_prefix_path.sh

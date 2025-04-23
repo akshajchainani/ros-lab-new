@@ -1,0 +1,2 @@
+[console_scripts]
+test = client_pkg.service:main

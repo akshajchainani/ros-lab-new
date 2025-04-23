@@ -1,0 +1,37 @@
+/home/akshaj/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py:289: UserWarning: Unknown distribution option: 'tests_require'
+  warnings.warn(msg)
+running egg_info
+creating ../../build/publisher_pkg/publisher_pkg.egg-info
+writing ../../build/publisher_pkg/publisher_pkg.egg-info/PKG-INFO
+writing dependency_links to ../../build/publisher_pkg/publisher_pkg.egg-info/dependency_links.txt
+writing entry points to ../../build/publisher_pkg/publisher_pkg.egg-info/entry_points.txt
+writing requirements to ../../build/publisher_pkg/publisher_pkg.egg-info/requires.txt
+writing top-level names to ../../build/publisher_pkg/publisher_pkg.egg-info/top_level.txt
+writing manifest file '../../build/publisher_pkg/publisher_pkg.egg-info/SOURCES.txt'
+reading manifest file '../../build/publisher_pkg/publisher_pkg.egg-info/SOURCES.txt'
+writing manifest file '../../build/publisher_pkg/publisher_pkg.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/akshaj/Desktop/ros-lab/ros-lab/build/publisher_pkg/build/lib/publisher_pkg
+copying publisher_pkg/simple.py -> /home/akshaj/Desktop/ros-lab/ros-lab/build/publisher_pkg/build/lib/publisher_pkg
+copying publisher_pkg/__init__.py -> /home/akshaj/Desktop/ros-lab/ros-lab/build/publisher_pkg/build/lib/publisher_pkg
+copying publisher_pkg/publish.py -> /home/akshaj/Desktop/ros-lab/ros-lab/build/publisher_pkg/build/lib/publisher_pkg
+running install
+running install_lib
+creating /home/akshaj/Desktop/ros-lab/ros-lab/install/publisher_pkg/lib/python3.10/site-packages/publisher_pkg
+copying /home/akshaj/Desktop/ros-lab/ros-lab/build/publisher_pkg/build/lib/publisher_pkg/simple.py -> /home/akshaj/Desktop/ros-lab/ros-lab/install/publisher_pkg/lib/python3.10/site-packages/publisher_pkg
+copying /home/akshaj/Desktop/ros-lab/ros-lab/build/publisher_pkg/build/lib/publisher_pkg/__init__.py -> /home/akshaj/Desktop/ros-lab/ros-lab/install/publisher_pkg/lib/python3.10/site-packages/publisher_pkg
+copying /home/akshaj/Desktop/ros-lab/ros-lab/build/publisher_pkg/build/lib/publisher_pkg/publish.py -> /home/akshaj/Desktop/ros-lab/ros-lab/install/publisher_pkg/lib/python3.10/site-packages/publisher_pkg
+byte-compiling /home/akshaj/Desktop/ros-lab/ros-lab/install/publisher_pkg/lib/python3.10/site-packages/publisher_pkg/simple.py to simple.cpython-310.pyc
+byte-compiling /home/akshaj/Desktop/ros-lab/ros-lab/install/publisher_pkg/lib/python3.10/site-packages/publisher_pkg/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/akshaj/Desktop/ros-lab/ros-lab/install/publisher_pkg/lib/python3.10/site-packages/publisher_pkg/publish.py to publish.cpython-310.pyc
+running install_data
+creating /home/akshaj/Desktop/ros-lab/ros-lab/install/publisher_pkg/share/ament_index/resource_index/packages
+copying resource/publisher_pkg -> /home/akshaj/Desktop/ros-lab/ros-lab/install/publisher_pkg/share/ament_index/resource_index/packages
+copying package.xml -> /home/akshaj/Desktop/ros-lab/ros-lab/install/publisher_pkg/share/publisher_pkg
+running install_egg_info
+Copying ../../build/publisher_pkg/publisher_pkg.egg-info to /home/akshaj/Desktop/ros-lab/ros-lab/install/publisher_pkg/lib/python3.10/site-packages/publisher_pkg-0.0.0-py3.10.egg-info
+running install_scripts
+Installing draw_circle script to /home/akshaj/Desktop/ros-lab/ros-lab/install/publisher_pkg/lib/publisher_pkg
+Installing pose_subscriber script to /home/akshaj/Desktop/ros-lab/ros-lab/install/publisher_pkg/lib/publisher_pkg
+writing list of installed files to '/home/akshaj/Desktop/ros-lab/ros-lab/build/publisher_pkg/install.log'

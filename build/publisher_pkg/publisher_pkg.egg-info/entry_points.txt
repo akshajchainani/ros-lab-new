@@ -1,0 +1,3 @@
+[console_scripts]
+draw_circle = publisher_pkg.simple:main
+pose_subscriber = publisher_pkg.publish:main

@@ -1,0 +1,2 @@
+[console_scripts]
+ass4 = setpen_service.setpen:main

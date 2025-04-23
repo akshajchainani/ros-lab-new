@@ -1,0 +1,5 @@
+[console_scripts]
+ass5_c = custom_service_msg.ass5_client:main
+ass5_s = custom_service_msg.ass5_service:main
+client = custom_service_msg.client:main
+service = custom_service_msg.service:main

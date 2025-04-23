@@ -1,0 +1,41 @@
+[2.750s] Invoking command in '/home/akshaj/Desktop/ros-lab/ros-lab/src/roslab': PYTHONPATH=/home/akshaj/Desktop/ros-lab/ros-lab/build/roslab/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/akshaj/Desktop/ros-lab/ros-lab/install/roslab/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/roslab build --build-base /home/akshaj/Desktop/ros-lab/ros-lab/build/roslab/build install --record /home/akshaj/Desktop/ros-lab/ros-lab/build/roslab/install.log --single-version-externally-managed install_data
+[3.028s] /home/akshaj/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py:289: UserWarning: Unknown distribution option: 'tests_require'
+[3.028s]   warnings.warn(msg)
+[3.217s] running egg_info
+[3.245s] creating ../../build/roslab/roslab.egg-info
+[3.245s] writing ../../build/roslab/roslab.egg-info/PKG-INFO
+[3.249s] writing dependency_links to ../../build/roslab/roslab.egg-info/dependency_links.txt
+[3.249s] writing entry points to ../../build/roslab/roslab.egg-info/entry_points.txt
+[3.249s] writing requirements to ../../build/roslab/roslab.egg-info/requires.txt
+[3.249s] writing top-level names to ../../build/roslab/roslab.egg-info/top_level.txt
+[3.250s] writing manifest file '../../build/roslab/roslab.egg-info/SOURCES.txt'
+[3.312s] reading manifest file '../../build/roslab/roslab.egg-info/SOURCES.txt'
+[3.314s] writing manifest file '../../build/roslab/roslab.egg-info/SOURCES.txt'
+[3.314s] running build
+[3.314s] running build_py
+[3.314s] creating /home/akshaj/Desktop/ros-lab/ros-lab/build/roslab/build/lib/roslab
+[3.315s] copying roslab/simple.py -> /home/akshaj/Desktop/ros-lab/ros-lab/build/roslab/build/lib/roslab
+[3.315s] copying roslab/my_first_node.py -> /home/akshaj/Desktop/ros-lab/ros-lab/build/roslab/build/lib/roslab
+[3.315s] copying roslab/__init__.py -> /home/akshaj/Desktop/ros-lab/ros-lab/build/roslab/build/lib/roslab
+[3.316s] copying roslab/publish.py -> /home/akshaj/Desktop/ros-lab/ros-lab/build/roslab/build/lib/roslab
+[3.316s] running install
+[3.324s] running install_lib
+[3.352s] creating /home/akshaj/Desktop/ros-lab/ros-lab/install/roslab/lib/python3.10/site-packages/roslab
+[3.353s] copying /home/akshaj/Desktop/ros-lab/ros-lab/build/roslab/build/lib/roslab/simple.py -> /home/akshaj/Desktop/ros-lab/ros-lab/install/roslab/lib/python3.10/site-packages/roslab
+[3.353s] copying /home/akshaj/Desktop/ros-lab/ros-lab/build/roslab/build/lib/roslab/my_first_node.py -> /home/akshaj/Desktop/ros-lab/ros-lab/install/roslab/lib/python3.10/site-packages/roslab
+[3.354s] copying /home/akshaj/Desktop/ros-lab/ros-lab/build/roslab/build/lib/roslab/__init__.py -> /home/akshaj/Desktop/ros-lab/ros-lab/install/roslab/lib/python3.10/site-packages/roslab
+[3.355s] copying /home/akshaj/Desktop/ros-lab/ros-lab/build/roslab/build/lib/roslab/publish.py -> /home/akshaj/Desktop/ros-lab/ros-lab/install/roslab/lib/python3.10/site-packages/roslab
+[3.357s] byte-compiling /home/akshaj/Desktop/ros-lab/ros-lab/install/roslab/lib/python3.10/site-packages/roslab/simple.py to simple.cpython-310.pyc
+[3.358s] byte-compiling /home/akshaj/Desktop/ros-lab/ros-lab/install/roslab/lib/python3.10/site-packages/roslab/my_first_node.py to my_first_node.cpython-310.pyc
+[3.359s] byte-compiling /home/akshaj/Desktop/ros-lab/ros-lab/install/roslab/lib/python3.10/site-packages/roslab/__init__.py to __init__.cpython-310.pyc
+[3.362s] byte-compiling /home/akshaj/Desktop/ros-lab/ros-lab/install/roslab/lib/python3.10/site-packages/roslab/publish.py to publish.cpython-310.pyc
+[3.362s] running install_data
+[3.362s] creating /home/akshaj/Desktop/ros-lab/ros-lab/install/roslab/share/ament_index/resource_index/packages
+[3.362s] copying resource/roslab -> /home/akshaj/Desktop/ros-lab/ros-lab/install/roslab/share/ament_index/resource_index/packages
+[3.362s] copying package.xml -> /home/akshaj/Desktop/ros-lab/ros-lab/install/roslab/share/roslab
+[3.363s] running install_egg_info
+[3.396s] Copying ../../build/roslab/roslab.egg-info to /home/akshaj/Desktop/ros-lab/ros-lab/install/roslab/lib/python3.10/site-packages/roslab-0.0.0-py3.10.egg-info
+[3.400s] running install_scripts
+[3.671s] Installing test_node script to /home/akshaj/Desktop/ros-lab/ros-lab/install/roslab/lib/roslab
+[3.671s] writing list of installed files to '/home/akshaj/Desktop/ros-lab/ros-lab/build/roslab/install.log'
+[3.839s] Invoked command in '/home/akshaj/Desktop/ros-lab/ros-lab/src/roslab' returned '0': PYTHONPATH=/home/akshaj/Desktop/ros-lab/ros-lab/build/roslab/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/akshaj/Desktop/ros-lab/ros-lab/install/roslab/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/roslab build --build-base /home/akshaj/Desktop/ros-lab/ros-lab/build/roslab/build install --record /home/akshaj/Desktop/ros-lab/ros-lab/build/roslab/install.log --single-version-externally-managed install_data
