@@ -1,0 +1,26 @@
+[0.013s] Invoking command in '/home/akshaj/Desktop/ros-lab-exp/ros-lab/ros2_ws_Akshaj/src/assingment7/build/assingment7': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/akshaj/Desktop/ros-lab-exp/ros-lab/ros2_ws_Akshaj/src/assingment7/build/assingment7 -- -j12 -l12
+[0.056s] Invoked command in '/home/akshaj/Desktop/ros-lab-exp/ros-lab/ros2_ws_Akshaj/src/assingment7/build/assingment7' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/akshaj/Desktop/ros-lab-exp/ros-lab/ros2_ws_Akshaj/src/assingment7/build/assingment7 -- -j12 -l12
+[0.067s] Invoking command in '/home/akshaj/Desktop/ros-lab-exp/ros-lab/ros2_ws_Akshaj/src/assingment7/build/assingment7': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/akshaj/Desktop/ros-lab-exp/ros-lab/ros2_ws_Akshaj/src/assingment7/build/assingment7
+[0.075s] -- Install configuration: ""
+[0.075s] -- Execute custom install script
+[0.076s] -- Up-to-date symlink: /home/akshaj/Desktop/ros-lab-exp/ros-lab/ros2_ws_Akshaj/src/assingment7/install/assingment7/share/assingment7//urdf/four_dof.xacro
+[0.076s] -- Up-to-date symlink: /home/akshaj/Desktop/ros-lab-exp/ros-lab/ros2_ws_Akshaj/src/assingment7/install/assingment7/share/assingment7//urdf/four_wheel.xacro
+[0.076s] -- Up-to-date symlink: /home/akshaj/Desktop/ros-lab-exp/ros-lab/ros2_ws_Akshaj/src/assingment7/install/assingment7/share/assingment7//urdf/inertial_macros.xacro
+[0.076s] -- Up-to-date symlink: /home/akshaj/Desktop/ros-lab-exp/ros-lab/ros2_ws_Akshaj/src/assingment7/install/assingment7/share/assingment7//urdf/robot.urdf.xacro
+[0.076s] -- Up-to-date symlink: /home/akshaj/Desktop/ros-lab-exp/ros-lab/ros2_ws_Akshaj/src/assingment7/install/assingment7/share/assingment7//launch/ass7.launch.xml
+[0.077s] -- Up-to-date symlink: /home/akshaj/Desktop/ros-lab-exp/ros-lab/ros2_ws_Akshaj/src/assingment7/install/assingment7/share/ament_index/resource_index/package_run_dependencies/assingment7
+[0.077s] -- Up-to-date symlink: /home/akshaj/Desktop/ros-lab-exp/ros-lab/ros2_ws_Akshaj/src/assingment7/install/assingment7/share/ament_index/resource_index/parent_prefix_path/assingment7
+[0.077s] -- Up-to-date symlink: /home/akshaj/Desktop/ros-lab-exp/ros-lab/ros2_ws_Akshaj/src/assingment7/install/assingment7/share/assingment7/environment/ament_prefix_path.sh
+[0.077s] -- Up-to-date symlink: /home/akshaj/Desktop/ros-lab-exp/ros-lab/ros2_ws_Akshaj/src/assingment7/install/assingment7/share/assingment7/environment/ament_prefix_path.dsv
+[0.077s] -- Up-to-date symlink: /home/akshaj/Desktop/ros-lab-exp/ros-lab/ros2_ws_Akshaj/src/assingment7/install/assingment7/share/assingment7/environment/path.sh
+[0.077s] -- Up-to-date symlink: /home/akshaj/Desktop/ros-lab-exp/ros-lab/ros2_ws_Akshaj/src/assingment7/install/assingment7/share/assingment7/environment/path.dsv
+[0.078s] -- Up-to-date symlink: /home/akshaj/Desktop/ros-lab-exp/ros-lab/ros2_ws_Akshaj/src/assingment7/install/assingment7/share/assingment7/local_setup.bash
+[0.078s] -- Up-to-date symlink: /home/akshaj/Desktop/ros-lab-exp/ros-lab/ros2_ws_Akshaj/src/assingment7/install/assingment7/share/assingment7/local_setup.sh
+[0.078s] -- Up-to-date symlink: /home/akshaj/Desktop/ros-lab-exp/ros-lab/ros2_ws_Akshaj/src/assingment7/install/assingment7/share/assingment7/local_setup.zsh
+[0.078s] -- Up-to-date symlink: /home/akshaj/Desktop/ros-lab-exp/ros-lab/ros2_ws_Akshaj/src/assingment7/install/assingment7/share/assingment7/local_setup.dsv
+[0.078s] -- Symlinking: /home/akshaj/Desktop/ros-lab-exp/ros-lab/ros2_ws_Akshaj/src/assingment7/install/assingment7/share/assingment7/package.dsv
+[0.088s] -- Up-to-date symlink: /home/akshaj/Desktop/ros-lab-exp/ros-lab/ros2_ws_Akshaj/src/assingment7/install/assingment7/share/ament_index/resource_index/packages/assingment7
+[0.089s] -- Up-to-date symlink: /home/akshaj/Desktop/ros-lab-exp/ros-lab/ros2_ws_Akshaj/src/assingment7/install/assingment7/share/assingment7/cmake/assingment7Config.cmake
+[0.089s] -- Up-to-date symlink: /home/akshaj/Desktop/ros-lab-exp/ros-lab/ros2_ws_Akshaj/src/assingment7/install/assingment7/share/assingment7/cmake/assingment7Config-version.cmake
+[0.089s] -- Up-to-date symlink: /home/akshaj/Desktop/ros-lab-exp/ros-lab/ros2_ws_Akshaj/src/assingment7/install/assingment7/share/assingment7/package.xml
+[0.091s] Invoked command in '/home/akshaj/Desktop/ros-lab-exp/ros-lab/ros2_ws_Akshaj/src/assingment7/build/assingment7' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/akshaj/Desktop/ros-lab-exp/ros-lab/ros2_ws_Akshaj/src/assingment7/build/assingment7

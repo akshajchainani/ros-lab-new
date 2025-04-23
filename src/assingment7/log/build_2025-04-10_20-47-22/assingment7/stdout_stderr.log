@@ -1,0 +1,42 @@
+-- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Found urdf: 2.6.1 (/opt/ros/humble/share/urdf/cmake)
+-- Found xacro: 2.0.13 (/opt/ros/humble/share/xacro/cmake)
+-- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'copyright' to check source files copyright and LICENSE
+-- Added test 'cppcheck' to perform static code analysis on C / C++ code
+-- Configured cppcheck include dirs: 
+-- Configured cppcheck exclude dirs and/or files: 
+-- Added test 'cpplint' to check C / C++ code against the Google style
+-- Configured cpplint exclude dirs and/or files: 
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'uncrustify' to check C / C++ code style
+-- Configured uncrustify additional arguments: 
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/akshaj/Desktop/ros-lab-exp/ros-lab/ros2_ws_Akshaj/src/assingment7/build/assingment7
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/akshaj/Desktop/ros-lab-exp/ros-lab/ros2_ws_Akshaj/src/assingment7/install/assingment7/share/assingment7//urdf/four_dof.xacro
+-- Up-to-date symlink: /home/akshaj/Desktop/ros-lab-exp/ros-lab/ros2_ws_Akshaj/src/assingment7/install/assingment7/share/assingment7//urdf/four_wheel.xacro
+-- Up-to-date symlink: /home/akshaj/Desktop/ros-lab-exp/ros-lab/ros2_ws_Akshaj/src/assingment7/install/assingment7/share/assingment7//urdf/inertial_macros.xacro
+-- Up-to-date symlink: /home/akshaj/Desktop/ros-lab-exp/ros-lab/ros2_ws_Akshaj/src/assingment7/install/assingment7/share/assingment7//urdf/robot.urdf.xacro
+-- Up-to-date symlink: /home/akshaj/Desktop/ros-lab-exp/ros-lab/ros2_ws_Akshaj/src/assingment7/install/assingment7/share/assingment7//launch/ass7.launch.xml
+-- Up-to-date symlink: /home/akshaj/Desktop/ros-lab-exp/ros-lab/ros2_ws_Akshaj/src/assingment7/install/assingment7/share/ament_index/resource_index/package_run_dependencies/assingment7
+-- Up-to-date symlink: /home/akshaj/Desktop/ros-lab-exp/ros-lab/ros2_ws_Akshaj/src/assingment7/install/assingment7/share/ament_index/resource_index/parent_prefix_path/assingment7
+-- Up-to-date symlink: /home/akshaj/Desktop/ros-lab-exp/ros-lab/ros2_ws_Akshaj/src/assingment7/install/assingment7/share/assingment7/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/akshaj/Desktop/ros-lab-exp/ros-lab/ros2_ws_Akshaj/src/assingment7/install/assingment7/share/assingment7/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/akshaj/Desktop/ros-lab-exp/ros-lab/ros2_ws_Akshaj/src/assingment7/install/assingment7/share/assingment7/environment/path.sh
+-- Up-to-date symlink: /home/akshaj/Desktop/ros-lab-exp/ros-lab/ros2_ws_Akshaj/src/assingment7/install/assingment7/share/assingment7/environment/path.dsv
+-- Up-to-date symlink: /home/akshaj/Desktop/ros-lab-exp/ros-lab/ros2_ws_Akshaj/src/assingment7/install/assingment7/share/assingment7/local_setup.bash
+-- Up-to-date symlink: /home/akshaj/Desktop/ros-lab-exp/ros-lab/ros2_ws_Akshaj/src/assingment7/install/assingment7/share/assingment7/local_setup.sh
+-- Up-to-date symlink: /home/akshaj/Desktop/ros-lab-exp/ros-lab/ros2_ws_Akshaj/src/assingment7/install/assingment7/share/assingment7/local_setup.zsh
+-- Up-to-date symlink: /home/akshaj/Desktop/ros-lab-exp/ros-lab/ros2_ws_Akshaj/src/assingment7/install/assingment7/share/assingment7/local_setup.dsv
+-- Symlinking: /home/akshaj/Desktop/ros-lab-exp/ros-lab/ros2_ws_Akshaj/src/assingment7/install/assingment7/share/assingment7/package.dsv
+-- Up-to-date symlink: /home/akshaj/Desktop/ros-lab-exp/ros-lab/ros2_ws_Akshaj/src/assingment7/install/assingment7/share/ament_index/resource_index/packages/assingment7
+-- Up-to-date symlink: /home/akshaj/Desktop/ros-lab-exp/ros-lab/ros2_ws_Akshaj/src/assingment7/install/assingment7/share/assingment7/cmake/assingment7Config.cmake
+-- Up-to-date symlink: /home/akshaj/Desktop/ros-lab-exp/ros-lab/ros2_ws_Akshaj/src/assingment7/install/assingment7/share/assingment7/cmake/assingment7Config-version.cmake
+-- Up-to-date symlink: /home/akshaj/Desktop/ros-lab-exp/ros-lab/ros2_ws_Akshaj/src/assingment7/install/assingment7/share/assingment7/package.xml
