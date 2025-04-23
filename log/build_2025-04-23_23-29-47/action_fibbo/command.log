@@ -1,6 +1,0 @@
-Invoking command in '/home/akshaj/Desktop/ros-lab/ros-lab/build/action_fibbo': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/akshaj/Desktop/ros-lab/ros-lab/src/action_fibbo -DCMAKE_INSTALL_PREFIX=/home/akshaj/Desktop/ros-lab/ros-lab/install/action_fibbo
-Invoked command in '/home/akshaj/Desktop/ros-lab/ros-lab/build/action_fibbo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/akshaj/Desktop/ros-lab/ros-lab/src/action_fibbo -DCMAKE_INSTALL_PREFIX=/home/akshaj/Desktop/ros-lab/ros-lab/install/action_fibbo
-Invoking command in '/home/akshaj/Desktop/ros-lab/ros-lab/build/action_fibbo': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/akshaj/Desktop/ros-lab/ros-lab/build/action_fibbo -- -j12 -l12
-Invoked command in '/home/akshaj/Desktop/ros-lab/ros-lab/build/action_fibbo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/akshaj/Desktop/ros-lab/ros-lab/build/action_fibbo -- -j12 -l12
-Invoking command in '/home/akshaj/Desktop/ros-lab/ros-lab/build/action_fibbo': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/akshaj/Desktop/ros-lab/ros-lab/build/action_fibbo
-Invoked command in '/home/akshaj/Desktop/ros-lab/ros-lab/build/action_fibbo' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/akshaj/Desktop/ros-lab/ros-lab/build/action_fibbo

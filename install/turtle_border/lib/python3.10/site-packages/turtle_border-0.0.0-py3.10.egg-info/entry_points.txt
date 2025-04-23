@@ -1,3 +1,0 @@
-[console_scripts]
-task_node = turtle_border.task:main
-turtle_controller = turtle_border.turtle_controller:main

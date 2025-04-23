@@ -1,3 +1,0 @@
-[console_scripts]
-listner = ti_custom_msg.Subscriber:main
-talker = ti_custom_msg.Publisher:main

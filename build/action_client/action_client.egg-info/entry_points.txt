@@ -1,5 +1,0 @@
-[console_scripts]
-fibonacci_action_client = action_client.action_client:main
-fibonacci_action_server = action_client.action_server:main
-prime_action_client = action_client.pime_client:main
-prime_action_server = action_client.prime_server:main

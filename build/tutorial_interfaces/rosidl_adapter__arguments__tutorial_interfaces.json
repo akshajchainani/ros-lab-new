@@ -1,9 +1,0 @@
-{
-  "package_name": "tutorial_interfaces",
-  "non_idl_tuples": [
-    "/home/akshaj/Desktop/ros-lab/ros-lab/src/tutorial_interfaces:msg/Num.msg",
-    "/home/akshaj/Desktop/ros-lab/ros-lab/src/tutorial_interfaces:msg/Sphere.msg",
-    "/home/akshaj/Desktop/ros-lab/ros-lab/src/tutorial_interfaces:srv/AddThreeInts.srv",
-    "/home/akshaj/Desktop/ros-lab/ros-lab/src/tutorial_interfaces:srv/SetVelocityTurtle.srv"
-  ]
-}

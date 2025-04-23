@@ -1,3 +1,0 @@
-[console_scripts]
-pub = dob_custom_pubsub.dob_pub:main
-sub = dob_custom_pubsub.dob_sub:main

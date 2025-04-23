@@ -1,6 +1,0 @@
-source;share/ti_custom_msg/hook/pythonpath.ps1
-source;share/ti_custom_msg/hook/pythonpath.dsv
-source;share/ti_custom_msg/hook/pythonpath.sh
-source;share/ti_custom_msg/hook/ament_prefix_path.ps1
-source;share/ti_custom_msg/hook/ament_prefix_path.dsv
-source;share/ti_custom_msg/hook/ament_prefix_path.sh
