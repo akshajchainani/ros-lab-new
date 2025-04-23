@@ -4,7 +4,7 @@ import rclpy
 from rclpy.action import ActionServer
 from rclpy.node import Node
 
-from action_exp6.action import Fibonacci
+from action_fibbo.action import Fibonacci
 
 
 class FibonacciActionServer(Node):
